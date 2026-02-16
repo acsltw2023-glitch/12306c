@@ -13,6 +13,7 @@
   <modules>
     <module>services</module>
     <module>dependencies</module>
+    <module>frameworks</module>
   </modules>
 
   <distributionManagement>
