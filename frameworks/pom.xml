@@ -13,5 +13,13 @@
         <module>base</module>
         <module>bizs</module>
         <module>cache</module>
+        <module>common</module>
+        <module>designpattern</module>
+        <module>convention</module>
+        <module>distributedid</module>
+        <module>idempotent</module>
+        <module>web</module>
+        <module>log</module>
+        <module>database</module>
     </modules>
 </project>
